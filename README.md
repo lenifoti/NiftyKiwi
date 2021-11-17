@@ -2,9 +2,9 @@
 
 Projects that recover wild-life as young to protect them from introduced predators until they can be re-introduced in protected environments need to be funded.
 
-This project uses collectability and scarcity to create value in Digital twins of these creatures as ERC721/1155 NFTs.  Sale and resale of these NFTs create income for supported projects via the DAO.
+This project uses collectability and scarcity to create value in digital twins of these creatures as ERC721/1155 NFTs.  Sale and resale of these NFTs create income for supported projects via the DAO.
 
-Further gamification around habitat and pretection eqquipment will allow further revenue for the DAO.
+Further gamification around habitat and pretection equipment will allow further revenue for the DAO.
 
 The DAO is goverened through an ERC20 token earned by operators that recover and release the creatures.
 
